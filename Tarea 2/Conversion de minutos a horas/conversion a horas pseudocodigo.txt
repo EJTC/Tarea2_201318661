@@ -1,0 +1,9 @@
+Proceso numero_primo
+
+	Escribir 'Ingrese el numero a convertir en minutos'
+	Leer num1
+	conversion<-num1/60
+	Escribir num1,' equivale a ',conversion,' hora(s).'
+
+FinProceso
+
